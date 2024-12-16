@@ -1,0 +1,4 @@
+# Ignore .zig-cache folders
+
+.zig-cache/
+zig-out/
